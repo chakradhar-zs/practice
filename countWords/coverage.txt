@@ -1,0 +1,4 @@
+mode: set
+awesomeProject/countWords/countWords.go:5.31,6.13 1 1
+awesomeProject/countWords/countWords.go:9.2,9.10 1 1
+awesomeProject/countWords/countWords.go:6.13,8.3 1 1

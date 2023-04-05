@@ -1,0 +1,4 @@
+mode: set
+awesomeProject/hello-worls/main.go:5.52,6.32 1 1
+awesomeProject/hello-worls/main.go:11.2,13.32 2 1
+awesomeProject/hello-worls/main.go:6.32,9.3 2 1

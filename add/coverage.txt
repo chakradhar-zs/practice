@@ -1,0 +1,7 @@
+mode: set
+awesomeProject/add/add.go:5.28,7.2 1 1
+awesomeProject/add/add.go:8.31,9.15 1 1
+awesomeProject/add/add.go:12.2,12.12 1 1
+awesomeProject/add/add.go:15.2,15.14 1 1
+awesomeProject/add/add.go:9.15,11.3 1 0
+awesomeProject/add/add.go:12.12,14.3 1 0

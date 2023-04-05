@@ -1,0 +1,4 @@
+mode: set
+awesomeProject/books/book.go:20.58,21.32 1 1
+awesomeProject/books/book.go:25.2,26.15 2 1
+awesomeProject/books/book.go:21.32,24.3 2 1
